@@ -1,0 +1,12 @@
+.DS_Store
+*.class
+*.log
+
+# Scala-IDE specific
+.settings/
+.scala_dependencies
+.classpath
+.project
+.cache
+.worksheet/
+*.sc
